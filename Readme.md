@@ -23,3 +23,9 @@ There are four fundamental layers of a Domain Driven Based Solution.
 * Repository (interface): A Repository is a collection-like interface that is used by the Domain and Application Layers to access to the data persistence system (the database). An example from Vernon’s book is the ProductRepository.
 * Domain Service: A Domain Service is a stateless service that implements core business rules of the domain.
 * Domain Event: A Domain Event is a way of informing other services in a loosely coupled manner, when a domain specific event occurs. Example from Vernon’s book: ProductReleaseScheduled is a Domain Event that a backlog product owner as a domain expert of agile project management domain cares about.
+
+
+## Refrences
+
+* https://www.youtube.com/watch?v=pMuiVlnGqjk&t=241s
+* https://www.youtube.com/watch?v=NdZqeAAIHzc
