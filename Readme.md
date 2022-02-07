@@ -1,9 +1,7 @@
-# technical paper
+# Technical paper on DDD(Domian Driven Design)
 
+##  What is domain driven design 
 
-* this is line no 1
-* this is line no 2
+Domain-Driven Design is an approach that allows the developers to write applications that will be bound to the business domain that they are going to represent. a business domain can be anything from health insurance to the railway management system.Domain-Driven Design  is a basic approach of software development that is centered around developing the programming domain model which has a very high understanding of the working of that domain.this concept was first given in a book by Eric Evans in 2003 which explains approaches through the catalog of patterns and from then the community of people have shown interest in it and also evolved this concept with their own ideas.these approaches are well suited for the conditions of complex domains where a lot of complicated and messy logic needs to be well organized.
 
-## this is a h2 heading 
-
-### this is a h3 heading 
+Eric Evans's great contribution to this, through his book, was developing a vocabulary to talk about this approach, identifying key conceptual elements that went beyond the various modeling notations that dominated the discussion at the time. At the heart of this was the idea that to develop software for a complex domain, we need to build Ubiquitous Language that embeds domain terminology into the software systems that we build. While many folks talked about developing such models, they were often only done on paper, and usually expected to be done up-front. DDD stresses doing them in software, and evolving them during the life of the software product. Eric is a strong proponent of Extreme Programming and sees Domain-Driven Design as a natural component of an extreme programming approach 
